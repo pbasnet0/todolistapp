@@ -22,4 +22,4 @@ A simple to-do list app made with Flutter. It lets users add, view, and delete t
 
 
 ## About
-Made by Prateek Basnet. This app is for personal use and stores all data locally. See the About screen in the app for details.
+Made by Prateek Basnet. Made for personally use
